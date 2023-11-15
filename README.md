@@ -5,7 +5,7 @@ ETL data from a Kaggle public dataset.
 In this project, will use data from Kaggle to perform data cleaning and obtain the desired dataset. Once the cleaning process is completed, we will proceed to connect to the database and upload the data into the MySQL database, which has been created the 'airline' database.
 
 ### Tool
-  - Jupyter Notebook
+  - Jupyter Notebook & Python
   - MySQL
 
 ### The Data Cleaning steps for this project include:
